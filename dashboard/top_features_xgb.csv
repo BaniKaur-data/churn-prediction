@@ -1,0 +1,11 @@
+feature,importance
+Contract_Month-to-month,0.37945828
+InternetService_Fiber optic,0.23902185
+OnlineSecurity_No,0.030821893
+InternetService_DSL,0.030474657
+TechSupport_No,0.022452611
+Contract_One year,0.020541644
+StreamingMovies_Yes,0.018421382
+Contract_Two year,0.017088996
+PaymentMethod_Electronic check,0.013593352
+MultipleLines_Yes,0.013491417
